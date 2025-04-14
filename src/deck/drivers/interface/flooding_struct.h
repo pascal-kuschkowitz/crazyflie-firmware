@@ -2,7 +2,7 @@
 #define __FLOODING_STRUCT_H__
 
 #include "FreeRTOS.h"
-#include "dwTypes.h"
+#include "deca_types.h"
 #include "adhocdeck.h"
 
 #define MAX_FLOODING_BODY_UNIT_NUMBER 30

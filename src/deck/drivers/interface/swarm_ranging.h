@@ -1,7 +1,7 @@
 #ifndef _SWARM_RANGING_H_
 #define _SWARM_RANGING_H_
 
-#include "dwTypes.h"
+#include "deca_types.h"
 #include "adhocdeck.h"
 #include "semphr.h"
 
